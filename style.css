@@ -9,6 +9,6 @@ p {
 
 center {
   max-width: 600px;
-  margin: 0 auto;
+  margin: auto;
   text-align: center;
 }
