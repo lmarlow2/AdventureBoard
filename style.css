@@ -6,3 +6,8 @@ p {
   color: #ffffff;
   max-width: 600px;
 }
+
+center {
+  max-width: 600px;
+  margin: 0 auto;
+}
