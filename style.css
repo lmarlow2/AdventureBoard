@@ -8,7 +8,8 @@ p {
 }
 
 center {
-  max-width: 600px;
+  #max-width: 600px;
+  width: 70%;
   margin: auto;
   text-align: center;
 }
