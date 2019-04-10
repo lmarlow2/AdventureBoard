@@ -1,4 +1,4 @@
-ol li, h1, h2, form label {
+ol li, h1, h2, form label, textarea {
   color: #ffffff;
 }
 
@@ -12,7 +12,7 @@ form.input, form.label, form.textarea, form.button {
 }
 
 form.input, form.textarea {
-  background-color: #949494;
+  background-color: #4f4f4f;
 }
 
 .center {
