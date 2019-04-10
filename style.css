@@ -7,11 +7,11 @@ p {
   max-width: 600px;
 }
 
-form.input, form.label, form.textarea, form.button {
+input[type="text"], label, textarea {
   display: block;
 }
 
-form.input, form.textarea {
+input[type="text"], textarea {
   background-color: #636363;
 }
 
