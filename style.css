@@ -1,14 +1,10 @@
-ol li, h1, h2, form label, textarea {
+ol li, h1, h2, form label, textarea, input[type="text"] {
   color: #ffffff;
 }
 
 p {
   color: #ffffff;
   max-width: 600px;
-}
-
-input[type="text"], label, textarea {
-  display: block;
 }
 
 input[type="text"], textarea {
