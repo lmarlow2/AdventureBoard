@@ -11,6 +11,10 @@ form.input, form.label, form.textarea, form.button {
   display: block;
 }
 
+form.input, form.textarea {
+  background-color: #949494;
+}
+
 .center {
   max-width: 600px;
   margin: auto;
