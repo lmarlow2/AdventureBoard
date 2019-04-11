@@ -23,6 +23,13 @@ input[type="text"], textarea {
   background: linear-gradient(to bottom, #45484d 0%,#000000 100%);
 }
 
+.bigButton {
+  width: 30%;
+  height: 200px;
+  color: #ffffff;
+  font-size: 20pt;
+}
+
 @font-face {
     font-family: 'scriptinaregular';
     src: url('./scriptin-webfont.woff2') format('woff2'),
