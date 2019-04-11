@@ -30,7 +30,9 @@ input[type="text"], textarea {
   font-size: 20pt;
 }
 
-.bigButton:hover {background-color: #0000c4;}
+.bigButton:hover {
+  background-color: #0000c4;
+}
 
 .bigButton:active {
   background-color: #000000;
