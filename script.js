@@ -1,5 +1,5 @@
 function newJob(){
-  
+  alert("Hello");
 }
 
 function submitJob(){
@@ -7,5 +7,5 @@ function submitJob(){
 }
 
 function viewJobs(){
-  
+  alert("World");
 }
