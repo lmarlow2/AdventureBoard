@@ -17,6 +17,12 @@ input[type="text"], textarea {
   text-align: center;
 }
 
+.bordered {
+  border-radius: 25px; 
+  border: 2px solid #FFD700;
+  background: linear-gradient(to bottom, #45484d 0%,#000000 100%);
+}
+
 @font-face {
     font-family: 'scriptinaregular';
     src: url('./scriptin-webfont.woff2') format('woff2'),
