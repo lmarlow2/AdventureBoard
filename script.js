@@ -4,7 +4,8 @@ function newJob(){
 
 function submitJob(){
   document.getElementById("dat").innerHTML = '<button class="bigButton" type="button" style="float: left;" onclick="newJob()">Submit New Job</button><button class="bigButton" type="button" style="float: right;" onclick="viewJobs()">Bid On Jobs</button>';
-  file = fopen("./data", 3);
+  file = fopen("./data.txt", 3);
+  if(file) alert("File Opened.");
   fwrite(file, "Test.\n");
 }
 
